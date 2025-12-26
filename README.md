@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm Aung Htet Pai
+
+I’m a Python developer focused on building simple, clean, and functional programs.
+I enjoy learning by creating small projects and improving my problem-solving skills step by step.
+
+🧠 Skills
+
+Python (basics to intermediate)
+
+Problem solving & logic building
+
+CLI applications
+
+Working with time, input/output, and basic game logic
+
+📂 Projects
+
+Slot Machine Game (with deposit & time tracking)
+
+Beginner-friendly Python mini projects
+
+🎯 Goal
+
+To grow as a software developer by writing clean code, learning best practices, and building real-world projects.
